@@ -2,7 +2,10 @@
 
 <a href='https://www.linkedin.com/in/shimaa-nashat'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
-<p> Passionate Web Developer 🌐 focused on building responsive and user-friendly websites. Actively seeking real-world projects to strengthen my skills, gain hands-on experience, and grow as a professional in modern web development </p>
+<p> Passionate Web Developer focused on building responsive and user-friendly websites. Actively seeking real-world 
+projects to strengthen my skills, gain hands-on experience, and grow as a professional in modern web development 
+and my goal is to become a professional in this field. I aim to work on real projects that help me improve my skills and 
+gain more practical experience. </p>
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
