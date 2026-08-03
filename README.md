@@ -35,26 +35,16 @@ I'm a passionate Frontend Web Developer focused on building responsive, user-fri
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shimaa-Nashat&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimaa-Nashat&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Shimaa-Nashat&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Shimaa-Nashat&theme=github-dark-blue"/>
 </p>
 
 ---
 
 ## 🎯 Featured Projects
 
-- 🏡 **Prime Estates** – Luxury Real Estate Website (React)
 - 🍕 **Pizza Menu** – React Application
 - 🎬 **Disney Movies** – Movie Showcase
 - ✅ **To-Do List App**
