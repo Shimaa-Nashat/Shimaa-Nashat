@@ -30,7 +30,7 @@ I'm a passionate Frontend Web Developer focused on building responsive, user-fri
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode,python,java,sql" />
 </p>
 
 ---
