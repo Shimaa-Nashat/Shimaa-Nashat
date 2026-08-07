@@ -30,7 +30,10 @@ I'm a passionate Frontend Web Developer focused on building responsive, user-fri
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode,python,java,sql" />
+<img
+    src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode,python,java,mysql"
+    alt="My Skills"
+  />
 </p>
 
 ---
@@ -44,8 +47,6 @@ I'm a passionate Frontend Web Developer focused on building responsive, user-fri
 - 🥗 **Health Empire** – Healthy Lifestyle Platform
 
 ---
-
-## 🐍 Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
