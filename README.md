@@ -35,20 +35,13 @@ I'm a passionate Frontend Web Developer focused on building responsive, user-fri
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Shimaa-Nashat&theme=github-dark-blue"/>
-</p>
-
----
-
 ## 🎯 Featured Projects
 
 - 🍕 **Pizza Menu** – React Application
 - 🎬 **Disney Movies** – Movie Showcase
 - ✅ **To-Do List App**
 - 🛋️ **Homora** – Furniture Store (Flask)
+- 🥗 **Health Empire** – Healthy Lifestyle Platform
 
 ---
 
