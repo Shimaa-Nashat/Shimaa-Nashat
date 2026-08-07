@@ -29,19 +29,19 @@ I'm a passionate Frontend Web Developer focused on building responsive, user-fri
 
 ## 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br>
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" /><br>
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br>
-<img src="https://skillicons.dev/icons?i=react" alt="React" /><br>
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" /><br>
-<img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br>
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /><br>
-<img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>
-<img src="https://skillicons.dev/icons?i=java" alt="Java" /><br>
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</div>
 
 ---
 
