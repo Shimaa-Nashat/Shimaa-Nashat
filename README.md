@@ -30,10 +30,17 @@ I'm a passionate Frontend Web Developer focused on building responsive, user-fri
 ## 🚀 Tech Stack
 
 <p>
-<img
-    src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode,python,java,mysql"
-    alt="My Skills"
-  />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" /><br>
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br>
+<img src="https://skillicons.dev/icons?i=react" alt="React" /><br>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" /><br>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /><br>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" /><br>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
 ---
