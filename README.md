@@ -39,19 +39,24 @@ I'm a Frontend Web Developer who enjoys turning designs into fast, responsive, a
   <img src="https://skillicons.dev/icons?i=react,figma,git,github,vscode,mysql" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white"/>
+</p>
+
 ---
 
 ### 🎯 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🍕 [Pizza Menu](#) | Interactive React app for browsing a pizza menu | React |
-| 🎬 [Disney Movies](#) | Movie showcase app with browsing/filtering | JavaScript |
-| ✅ [To-Do List App](#) | Task manager with add/edit/delete functionality | HTML, CSS, JS |
-| 🛋️ [Homora](#) | Furniture store web app | Flask |
-| 🥗 [Health Empire](#) | Healthy lifestyle platform with user auth | HTML, CSS, JS |
-
-> Replace the `#` links above with your actual repo URLs.
+| 🍽️ [Eat-n-Split](https://github.com/Shimaa-Nashat/Eat-n-Split) | Split bills and track shared expenses with friends | React |
+| 🎒 [Travel-List](https://github.com/Shimaa-Nashat/Travel-List) | Organize and manage travel packing lists | React |
+| 🥗 [Health-Empire](https://github.com/Shimaa-Nashat/Health-Empire) | Healthy meals platform with expert guidance & plans | HTML, CSS, JS |
+| 🍕 [Pizza-Menu](https://github.com/Shimaa-Nashat/Pizza-Menu) | Displays pizzas with ingredients, prices & availability | React |
+| 🛋️ [Homora](https://github.com/Shimaa-Nashat/Homora) | Furniture store with dynamic product management | Flask, SQLite |
+| 🎬 [Movies](https://github.com/Shimaa-Nashat/Movies) | Interactive Disney movie gallery | JavaScript |
+| ✅ [To-Do-List](https://github.com/Shimaa-Nashat/To-Do-List) | Add, manage & delete tasks with a clean UI | HTML, CSS, JS |
 
 ---
 
