@@ -57,6 +57,7 @@ I'm a Frontend Web Developer who enjoys turning designs into fast, responsive, a
 | 🛋️ [Homora](https://github.com/Shimaa-Nashat/Homora) | Furniture store with dynamic product management | Flask, SQLite |
 | 🎬 [Movies](https://github.com/Shimaa-Nashat/Movies) | Interactive Disney movie gallery | JavaScript |
 | ✅ [To-Do-List](https://github.com/Shimaa-Nashat/To-Do-List) | Add, manage & delete tasks with a clean UI | HTML, CSS, JS |
+| 🎥 [CineRate](https://github.com/Shimaa-Nashat/CineRate) | Movie rating & review relational database with ratings, reviews & watchlists | MySQL |
 
 ---
 
