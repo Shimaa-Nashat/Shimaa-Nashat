@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shimaa Nashat 👋</h1>
 
 <p align="center">
-  <b>Frontend Web Developer</b> · React.js Developer · IT Student
+  💻 <b>Front-End Developer</b> | React Specialist | Computer Science Student
 </p>
 
 <p align="center">
@@ -17,7 +17,11 @@
 
 ### 👩‍💻 About Me
 
-I'm a Frontend Web Developer who enjoys turning designs into fast, responsive, and user-friendly web apps. I care about clean UI, solid component structure, and writing code that's easy to maintain.
+I'm a passionate Front-End Developer from Aswan, Egypt, and a Computer Science student at the Egyptian E-Learning University (EELU).
+
+I enjoy transforming ideas and UI/UX designs into responsive, accessible, and user-friendly web experiences. I focus on writing clean, maintainable code and building interfaces that work smoothly across different devices.
+
+I'm continuously learning, exploring new technologies, and building projects that help me grow as a developer.n.
 
 - 🌱 Currently deepening my skills in **Advanced React.js & Next.js**
 - 💼 Interested in Frontend & Full-Stack roles
