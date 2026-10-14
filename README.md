@@ -78,7 +78,6 @@ I'm continuously learning, exploring new technologies, and building practical pr
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimaa-Nashat&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimaa-Nashat&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
 </p>
 
