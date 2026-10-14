@@ -14,20 +14,26 @@
 </p>
 
 ---
-
-### 👩‍💻 About Me
-
 I'm a passionate Front-End Developer from Aswan, Egypt, and a Computer Science student at the Egyptian E-Learning University (EELU).
 
 I enjoy transforming ideas and UI/UX designs into responsive, accessible, and user-friendly web experiences. I focus on writing clean, maintainable code and building interfaces that work smoothly across different devices.
 
-I'm continuously learning, exploring new technologies, and building projects that help me grow as a developer.n.
+I'm continuously learning, exploring new technologies, and building projects that help me grow as a developer.
+---
 
-- 🌱 Currently deepening my skills in **Advanced React.js & Next.js**
-- 💼 Interested in Frontend & Full-Stack roles
-- 🤝 Open to internships and collaboration on real-world projects
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Best way to reach me: **LinkedIn**
+### 👩‍💻 About Me
+
+🎓 Studying Computer Science at EELU.
+
+💻 Focused on Front-End Development and React.
+
+🎨 Interested in UI/UX design and responsive interfaces.
+
+🗄️ Exploring databases, SQL, and data analysis.
+
+🌱 Continuously improving my programming and problem-solving skills.
+
+🤝 Interested in collaboration, learning opportunities, and meaningful projects.
 
 ---
 
