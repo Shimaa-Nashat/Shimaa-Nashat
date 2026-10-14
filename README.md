@@ -78,10 +78,6 @@ I'm continuously learning, exploring new technologies, and building practical pr
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimaa-Nashat&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 </p>
 
