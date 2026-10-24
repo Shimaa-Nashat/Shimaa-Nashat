@@ -26,18 +26,18 @@ I'm continuously learning, exploring new technologies, and building practical pr
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎓 Studying Computer Science at EELU.
-- 💻 Focused on Front-End Development and React.
-- 🎨 Interested in UI/UX design and responsive interfaces.
-- 🗄️ Exploring databases, SQL, and data analysis.
-- 🌱 Continuously improving my programming and problem-solving skills.
-- 🤝 Open to collaboration, learning opportunities, and meaningful projects.
+-  Studying Computer Science at EELU.
+-  Focused on Front-End Development and React.
+-  Interested in UI/UX design and responsive interfaces.
+-  Exploring databases, SQL, and data analysis.
+-  Continuously improving my programming and problem-solving skills.
+-  Open to collaboration, learning opportunities, and meaningful projects.
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 **Languages & Core Technologies**
 
@@ -59,7 +59,7 @@ I'm continuously learning, exploring new technologies, and building practical pr
 
 ---
 
-### 🎯 Featured Projects
+###  Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -75,7 +75,7 @@ I'm continuously learning, exploring new technologies, and building practical pr
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
