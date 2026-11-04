@@ -61,19 +61,17 @@ I care about the details behind a good interface: clear structure, consistent sp
 
 | Project | Description | Technologies |
 |---|---|---|
-| ⚽ [FIFA World Cup Data Intelligence](https://github.com/Shimaa-Nashat/FIFA-World-Cup-Data-Intelligence) | End-to-end data project combining database engineering, Python analysis, data validation, and interactive analytics. | SQL Server, Python, Pandas, React |
-| 🛋️ [Homora](https://github.com/Shimaa-Nashat/Homora) | Furniture e-commerce application with dynamic product pages, shopping cart functionality, and database integration. | Flask, Python, SQLite |
-| 🏥 [Health Empire](https://github.com/Shimaa-Nashat/Health-Empire) | Responsive healthcare platform for exploring healthcare services and resources. | HTML, CSS, JavaScript |
-| 🎬 [CineRate](https://github.com/Shimaa-Nashat/CineRate) | Relational movie database for managing movies, ratings, reviews, and watchlists. | SQL, MySQL |
-| 🍽️ [Eat-n-Split](https://github.com/Shimaa-Nashat/Eat-n-Split) | React application for splitting bills and tracking shared expenses with friends. | React, JavaScript |
-| 🎒 [Travel-List](https://github.com/Shimaa-Nashat/Travel-List) | Organize and manage packing lists for trips. | React, JavaScript |
-| 🍕 [Pizza-Menu](https://github.com/Shimaa-Nashat/Pizza-Menu) | Interactive pizza menu displaying ingredients, prices, and availability. | React, JavaScript |
-| 🎥 [Movies](https://github.com/Shimaa-Nashat/Movies) | Interactive Disney movie gallery. | JavaScript, HTML, CSS |
-| ✅ [To-Do-List](https://github.com/Shimaa-Nashat/To-Do-List) | Simple task management application for adding, managing, and deleting tasks. | HTML, CSS, JavaScript |
+| [FIFA World Cup Data Intelligence](https://github.com/Shimaa-Nashat/FIFA-World-Cup-Data-Intelligence) | End-to-end data project combining database engineering, Python analysis, data validation, and interactive analytics. | SQL Server, Python, Pandas, React |
+| [Homora](https://github.com/Shimaa-Nashat/Homora) | Furniture e-commerce application with dynamic product pages, shopping cart functionality, and database integration. | Flask, Python, SQLite |
+| [Health Empire](https://github.com/Shimaa-Nashat/Health-Empire) | Responsive healthcare platform for exploring healthcare services and resources. | HTML, CSS, JavaScript |
+| [CineRate](https://github.com/Shimaa-Nashat/CineRate) | Relational movie database for managing movies, ratings, reviews, and watchlists. | SQL, MySQL |
+| [Eat-n-Split](https://github.com/Shimaa-Nashat/Eat-n-Split) | React application for splitting bills and tracking shared expenses with friends. | React, JavaScript |
+| [Travel-List](https://github.com/Shimaa-Nashat/Travel-List) | Organize and manage packing lists for trips. | React, JavaScript |
+| [Pizza-Menu](https://github.com/Shimaa-Nashat/Pizza-Menu) | Interactive pizza menu displaying ingredients, prices, and availability. | React, JavaScript |
+| [Movies](https://github.com/Shimaa-Nashat/Movies) | Interactive Disney movie gallery. | JavaScript, HTML, CSS |
+| [To-Do-List](https://github.com/Shimaa-Nashat/To-Do-List) | Simple task management application for adding, managing, and deleting tasks. | HTML, CSS, JavaScript |
 
 ---
-
-###  GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
@@ -82,7 +80,7 @@ I care about the details behind a good interface: clear structure, consistent sp
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile!
   <br/>
   <b>Build · Learn · Improve · Repeat</b>
 </p>
