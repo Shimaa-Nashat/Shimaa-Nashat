@@ -18,11 +18,9 @@
 
 ---
 
-I'm a passionate **Front-End Developer** from Aswan, Egypt, and a Computer Science student at the Egyptian E-Learning University (EELU).
+I’m Shimaa, a **front-end developer** who enjoys turning ideas and UI/UX designs into polished, useful web experiences. I work with React and the core web technologies to create interfaces that are responsive, accessible, and straightforward to use.
 
-I enjoy transforming ideas and UI/UX designs into responsive, accessible, and user-friendly web experiences. I focus on writing clean, maintainable code and building interfaces that work smoothly across different devices.
-
-I'm continuously learning, exploring new technologies, and building practical projects that help me grow as a developer.
+I care about the details behind a good interface: clear structure, consistent spacing, readable content, and code that stays maintainable as a project grows. I also enjoy learning across software development, databases, and design.
 
 ---
 
