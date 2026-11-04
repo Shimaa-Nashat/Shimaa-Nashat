@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Shimaa Nashat 👋</h1>
+ <h1 align="center">Hello, I'm Shimaa Nashat 👋</h1>
 
 <p align="center">
   💻 <b>Front-End Developer</b> | React Specialist | Computer Science Student
@@ -18,7 +18,7 @@
 
 ---
 
-I’m Shimaa, a **front-end developer** who enjoys turning ideas and UI/UX designs into polished, useful web experiences. I work with React and the core web technologies to create interfaces that are responsive, accessible, and straightforward to use.
+I’m a **front-end developer** who enjoys turning ideas and UI/UX designs into polished, useful web experiences. I work with React and the core web technologies to create interfaces that are responsive, accessible, and straightforward to use.
 
 I care about the details behind a good interface: clear structure, consistent spacing, readable content, and code that stays maintainable as a project grows. I also enjoy learning across software development, databases, and design.
 
